@@ -2,5 +2,5 @@
 -e git+https://github.com/matejker/network@master#egg=mk-network
 networkx>=2.5
 matplotlib>=3.9.1
-numpy>=2.0.1
+numpy>=1.22.0
 notebook
